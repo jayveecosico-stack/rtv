@@ -27,7 +27,7 @@ tagline: Collection of the Presidential Engagements of the Philippines
 # this description might appear in search result lists, keep around 160 characters max
 description: "We Serve the Presidency since 1987"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Archives Division
 
 ##########
 # COLLECTION SETTINGS
@@ -40,7 +40,7 @@ metadata: demo-metadata
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
+# organization-name: "Presidential Broadcast Staff Radio Television Malacañang"
 # organization-link: https://cdil.lib.uidaho.edu/
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
